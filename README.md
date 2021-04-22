@@ -26,13 +26,13 @@ I completed this by following along in Week 14 exercise videos. I did exactly wh
 
 ## Links
 ---
-* [Open the Project](https://danielwestfall.github.io/todolist/todo.html))
+* [Open the Project](https://danielwestfall.github.io/todolist/todo.html)
 * [View it on GitHub](https://github.com/danielwestfall/todolist)
 * [View my Portfolio](https://danielwestfall.github.io/)
 
 ## Screenshots
 ---
-![Example screenshot](bustracker.png)
+![Example screenshot](todo.png)
 
 ## Technologies
 ---
